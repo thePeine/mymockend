@@ -1,6 +1,9 @@
 {
   "levels":
   [ 
-    {"title": "Intro", "version": "1.0", "url",   "https://github.com/thePeine/mymockend/CP_Levels/Level1.json" },
+    {
+      "title": "Intro", 
+      "version": "1.0", 
+      "url": "https://github.com/thePeine/mymockend/CP_Levels/Level1.json" }
   ]
 }
