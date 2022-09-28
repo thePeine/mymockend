@@ -1,9 +1,14 @@
-{
-  "levels":
-  [ 
-    {
-      "title": "Intro", 
-      "version": "1.0", 
-      "url": "https://github.com/thePeine/mymockend/CP_Levels/Level1.json" }
-  ]
-}
+[
+  {
+    "Title": "Level1",
+    "Version": "1.0",
+    "Url": "http://foo",
+    "UniqueID": "c8685ef2-9eef-430d-85cf-390ebfa52cce"
+  },
+  {
+    "Title": "Level2",
+    "Version": "1.0",
+    "Url": "http://bar",
+    "UniqueID": "2a0b1f1a-a9ee-40d2-b695-71f90839a1eb"
+  }
+]
