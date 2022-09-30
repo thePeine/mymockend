@@ -4,6 +4,7 @@
     "Version": "1",
     "Images": [
       {
+        "ImageTitle": "Berries",
         "Url": "http://foobar",
         "Questions": [
           {
@@ -30,6 +31,7 @@
         ]
       },
       {
+        "ImageTitle": "Trees",
         "Url": "http://barbazz",
         "Questions": [
           {
@@ -62,6 +64,7 @@
     "Version": "1",
     "Images": [
       {
+        "ImageTitle": "Machine",
         "Url": "http://boom",
         "Questions": [
           {
@@ -109,6 +112,7 @@
         ]
       },
       {
+        "ImageTitle": "Car",
         "Url": "http://dynamite",
         "Questions": [
           {
